@@ -4,9 +4,11 @@
 
 This project is catered to the client from the Marketing Agency.
 
-# LINK
+# LINKS
 
 https://github.com/phammist/misty-challenge-two
+
+https://phammist.github.io/misty-challenge-two/
 
 # WEBPAGE SCREENSHOT
 
