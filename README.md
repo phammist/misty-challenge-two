@@ -2,7 +2,7 @@
 
 # DESCRIPTION
 
-This project is catered to the client from the Marketing Agency.
+This project is catered to a client from the Marketing Agency. Their acceptance criteria is that the edited version is more accessible for our audience. Little change was made to the starter code, for they wish to keep the resemblance above 90%. The links all perform their fuctions without error. 
 
 # LINKS
 
